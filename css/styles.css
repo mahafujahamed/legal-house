@@ -1,0 +1,41 @@
+.banner-img{
+    background-image: url("../images/Rectangle\ 4.png");
+    height: 80vh;
+    
+}
+.button{
+    background-color: #B68C5A;
+    height: 50px;
+    border: none;
+}
+.input-btn{
+    width: 45%;
+    height: 60px;
+    margin-left: 25%;
+}
+
+.banner-img-1{
+    background-image: url("../images/law-justice-concept-dark-background.jpg");
+    border-radius: 20px;
+    height: 75vh;
+    width: 100%;
+}
+.banner-img-2{
+    background-image: url("../images/judges-gavel-scale-justice-black-table.jpg");
+    border-radius: 20px;
+    height: 75vh;
+    width: 100%;
+}
+.banner-img-3{
+    background-image: url("../images/law-justice-concept-dark-background.jpg");
+    border-radius: 20px;
+    height: 75vh;
+    width: 100%;
+}
+.btn-message{
+    background-color: #B68C5A;
+    border-radius: 10px;
+    width: 250px;
+    height: 50px;
+    border: none;
+}
